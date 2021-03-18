@@ -1,11 +1,11 @@
 {
-    "name": "colombo/converters",
+    "name": "nguyenhiep/converters",
     "description": "Suport convert document to other format",
     "type": "library",
     "authors": [
         {
-            "name": "Vu Thai Hoc",
-            "email": "vuthaihoc.ttud@gmail.com"
+            "name": "Nguyễn Văn Hiệp",
+            "email": "nguyenheipvan.bka@gmail.com"
         }
     ],
     "autoload": {

@@ -30,7 +30,7 @@ class Converter {
 	protected $endPage;
 	protected $converterMapping = [
 		'doc' => [
-			'docx' => '',
+			'docx' =>  JodConverter::class,
 			'html' => JodConverter::class,
 			'pdf' => JodConverter::class,
 			'txt' => JodConverter::class,
